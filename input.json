@@ -1,0 +1,26 @@
+{
+    "students": [
+        {
+            "name": "Louis",
+            "id":1,
+            "meals": "5.75",
+            "hotels": "35.00",
+            "taxi": "12.79"
+        },
+        {
+            "name": "Carter",
+            "id":2,
+            "meals": "12.00",
+            "hotels": "15.00",
+            "taxi": "23.23"
+        },
+        {
+            "name": "David",
+            "id":3,
+            "meals": "10.00",
+            "hotels": "20.00",
+            "taxi": "38.41",
+            "planeTickets": "45.00"
+        }
+    ]
+}
